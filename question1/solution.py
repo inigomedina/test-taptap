@@ -1,7 +1,7 @@
 """
 Assumptions.
 
-I assumme that string (S) contains is not empty.
+I assumme that string (S) is not empty.
 I assume that S contains only lowercase a-z.
 I assume that we are not dealing with specific language such as
 English, Spanish, etc.
